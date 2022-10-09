@@ -6,4 +6,4 @@ The Sloan Digital Sky Survey has created the most detailed three-dimensional map
 
 
 * **For more information**  
-[a link](http://www.sdss.org/)
+[a](http://www.sdss.org/)
